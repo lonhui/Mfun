@@ -27,6 +27,7 @@ export default {
 }
 .button{
     width: 300px;
+    height: 150px;
     padding-top: 650px;
     margin-left: 420px;
     display: inline-block
