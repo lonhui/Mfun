@@ -6,7 +6,7 @@
             <p>Green ore are incentive ores based on individuals' activities in mfun that can be used to pay for and purchase application services throughout the ecosystem.</p><br>
             <p>If you don't get it within 72 hours the green ore and red ore will disappear.</p><br>
             <p>For a certain period of time, the more mfun you have ,the more red ore you will produce.</p><br>
-            <p>The total number of apple is limited, and every two years of production will be reduced by half, over time, access will become more and more difficult,so the advantage of early participation.</p>
+            <p>The total number of ore is limited, and every two years of production will be reduced by half, over time, access will become more and more difficult,so the advantage of early participation.</p>
         </div>
     </div>
 </template>
