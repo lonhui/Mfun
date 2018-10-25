@@ -33,8 +33,8 @@ export default {
     display: inline-block
 }
 .button img{
-    width: 100%;
-    height: 100%
+    width: 300px;
+    height: 150px;
 }
 .button img:active {transform: translateY(6px)}
 .billboard{
